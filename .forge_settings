@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<as>
+<name>jbossas7</name>
+<jboss>
+<as7>
+<version>7.1.1.Final</version>
+<dist>org.jboss.as:jboss-as-dist:zip::7.1.1.Final</dist>
+<path>/Users/pete/softwaredev/projects/thirdparty/deltaspike-exception-test/target/jboss-as-dist</path>
+<port>9999</port>
+<timeout>90</timeout>
+</as7>
+</jboss>
+</as>
+</configuration>
